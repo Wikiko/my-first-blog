@@ -28,6 +28,10 @@ h1,h2,h3,h4{
     color: #828282;
 }
 
+.date{
+    margin-top: 35px;
+}
+
 .save{
     float:right;
 }
@@ -41,10 +45,12 @@ h1,h2,h3,h4{
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 .post{
-    margin-bottom: 70px;
+    margin-bottom: 45px;
+    padding: 10px;
 }
 
 .post h1 a, .post h1 a:visited{
